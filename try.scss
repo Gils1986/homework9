@@ -1,0 +1,16 @@
+@mixin changeColor($colory) {
+  font-weight: 900;
+  background-color: $colory;
+}
+
+.mission {
+  .green {
+    @include changeColor(green);
+  }
+}
+
+.mission {
+  .red {
+    @include changeColor(red);
+  }
+}

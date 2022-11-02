@@ -1,0 +1,38 @@
+.mission .green {
+  font-weight: 900;
+  background-color: green;
+}
+
+.mission .red {
+  font-weight: 900;
+  background-color: red;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+}
+
+.green {
+  height: 80px;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+
+.red {
+  height: 80px;
+  margin-left: 450px;
+  margin-right: 450px;
+}
+
+.header {
+  background-color: gray;
+}
+
+.footer {
+  background-color: gray;
+}
+
+
+
+/*# sourceMappingURL=try.css.map */
